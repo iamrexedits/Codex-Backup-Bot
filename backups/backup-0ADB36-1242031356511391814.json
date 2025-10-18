@@ -1,4 +1,5 @@
 {
+  "backupId": "0ADB36",
   "name": "Panda Coder's",
   "channels": [
     {
@@ -6,6 +7,11 @@
       "type": 4,
       "position": 1,
       "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": []
     },
     {
@@ -13,6 +19,11 @@
       "type": 4,
       "position": 2,
       "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": []
     },
     {
@@ -20,6 +31,11 @@
       "type": 4,
       "position": 0,
       "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": []
     },
     {
@@ -27,6 +43,11 @@
       "type": 2,
       "position": 0,
       "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 69,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -44,6 +65,11 @@
       "type": 0,
       "position": 3,
       "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -61,6 +87,11 @@
       "type": 0,
       "position": 1,
       "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -78,6 +109,11 @@
       "type": 5,
       "position": 0,
       "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -95,6 +131,11 @@
       "type": 15,
       "position": 2,
       "parent": "Chat Room",
+      "topic": "**Report Any Bugs, If you found it 🥸 **",
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 1800,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -111,6 +152,11 @@
       "type": 2,
       "position": 1,
       "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 29,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -128,6 +174,11 @@
       "type": 0,
       "position": 2,
       "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -145,6 +196,11 @@
       "type": 2,
       "position": 2,
       "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 29,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -162,6 +218,11 @@
       "type": 0,
       "position": 5,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -178,6 +239,11 @@
       "type": 0,
       "position": 4,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -195,6 +261,11 @@
       "type": 0,
       "position": 1,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -212,6 +283,11 @@
       "type": 0,
       "position": 2,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -228,6 +304,11 @@
       "type": 4,
       "position": 3,
       "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": []
     },
     {
@@ -235,6 +316,11 @@
       "type": 0,
       "position": 1,
       "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -252,6 +338,11 @@
       "type": 0,
       "position": 3,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -268,6 +359,11 @@
       "type": 0,
       "position": 6,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": []
     },
     {
@@ -275,6 +371,11 @@
       "type": 0,
       "position": 0,
       "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -292,6 +393,11 @@
       "type": 0,
       "position": 3,
       "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -309,6 +415,11 @@
       "type": 0,
       "position": 0,
       "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
       "permissionOverwrites": [
         {
           "id": "1242031356511391814",
@@ -594,7 +705,7 @@
       "mentionable": false
     },
     {
-      "name": "Azure",
+      "name": "Turtle",
       "color": 0,
       "hoist": false,
       "position": 2,
@@ -604,7 +715,7 @@
       "mentionable": false
     },
     {
-      "name": "Turtle",
+      "name": "Azure",
       "color": 0,
       "hoist": false,
       "position": 1,
@@ -617,163 +728,163 @@
   "emojis": [
     {
       "name": "yellow",
-      "url": "https://cdn.discordapp.com/emojis/1253955542150283314.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955542150283314.webp"
     },
     {
       "name": "red",
-      "url": "https://cdn.discordapp.com/emojis/1253955563189043231.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955563189043231.webp"
     },
     {
       "name": "green",
-      "url": "https://cdn.discordapp.com/emojis/1253955583225237565.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955583225237565.webp"
     },
     {
       "name": "other",
-      "url": "https://cdn.discordapp.com/emojis/1253955604318519336.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955604318519336.webp"
     },
     {
       "name": "blue",
-      "url": "https://cdn.discordapp.com/emojis/1253955625839497246.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955625839497246.webp"
     },
     {
       "name": "react",
-      "url": "https://cdn.discordapp.com/emojis/1253955644474789961.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955644474789961.webp"
     },
     {
       "name": "add",
-      "url": "https://cdn.discordapp.com/emojis/1253955664267444264.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955664267444264.webp"
     },
     {
       "name": "check",
-      "url": "https://cdn.discordapp.com/emojis/1253955682198229002.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955682198229002.webp"
     },
     {
       "name": "counter_1",
-      "url": "https://cdn.discordapp.com/emojis/1253955701924171786.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955701924171786.webp"
     },
     {
       "name": "counter_2",
-      "url": "https://cdn.discordapp.com/emojis/1253955722253701161.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955722253701161.webp"
     },
     {
       "name": "counter_3",
-      "url": "https://cdn.discordapp.com/emojis/1253955741690101761.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955741690101761.webp"
     },
     {
       "name": "counter_4",
-      "url": "https://cdn.discordapp.com/emojis/1253955759419428985.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955759419428985.webp"
     },
     {
       "name": "counter_5",
-      "url": "https://cdn.discordapp.com/emojis/1253955778625146950.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955778625146950.webp"
     },
     {
       "name": "music",
-      "url": "https://cdn.discordapp.com/emojis/1253955810493464596.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955810493464596.webp"
     },
     {
       "name": "cross",
-      "url": "https://cdn.discordapp.com/emojis/1253955875962621952.png"
+      "url": "https://cdn.discordapp.com/emojis/1253955875962621952.webp"
     },
     {
       "name": "upvote",
-      "url": "https://cdn.discordapp.com/emojis/1262371403378987121.png"
+      "url": "https://cdn.discordapp.com/emojis/1262371403378987121.webp"
     },
     {
       "name": "eye",
-      "url": "https://cdn.discordapp.com/emojis/1262751355949547581.png"
+      "url": "https://cdn.discordapp.com/emojis/1262751355949547581.webp"
     },
     {
       "name": "blob",
-      "url": "https://cdn.discordapp.com/emojis/1264194635706667028.gif"
+      "url": "https://cdn.discordapp.com/emojis/1264194635706667028.webp"
     },
     {
       "name": "poll",
-      "url": "https://cdn.discordapp.com/emojis/1265278177278689290.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278177278689290.webp"
     },
     {
       "name": "giveaways",
-      "url": "https://cdn.discordapp.com/emojis/1265278204608774164.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278204608774164.webp"
     },
     {
       "name": "chat",
-      "url": "https://cdn.discordapp.com/emojis/1265278226343657516.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278226343657516.webp"
     },
     {
       "name": "BraversCheck",
-      "url": "https://cdn.discordapp.com/emojis/1265278248854753411.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278248854753411.webp"
     },
     {
       "name": "BraversCross",
-      "url": "https://cdn.discordapp.com/emojis/1265278272204308510.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278272204308510.webp"
     },
     {
       "name": "arrow",
-      "url": "https://cdn.discordapp.com/emojis/1265278329041322126.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278329041322126.webp"
     },
     {
       "name": "announce",
-      "url": "https://cdn.discordapp.com/emojis/1265278357361266710.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278357361266710.webp"
     },
     {
       "name": "devs",
-      "url": "https://cdn.discordapp.com/emojis/1265278400348553336.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278400348553336.webp"
     },
     {
       "name": "youtube",
-      "url": "https://cdn.discordapp.com/emojis/1265278486587772988.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278486587772988.webp"
     },
     {
       "name": "search",
-      "url": "https://cdn.discordapp.com/emojis/1265278522780422265.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278522780422265.webp"
     },
     {
       "name": "boost",
-      "url": "https://cdn.discordapp.com/emojis/1265278605957533778.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278605957533778.webp"
     },
     {
       "name": "rules",
-      "url": "https://cdn.discordapp.com/emojis/1265278630091821099.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278630091821099.webp"
     },
     {
       "name": "money",
-      "url": "https://cdn.discordapp.com/emojis/1265278677067759680.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265278677067759680.webp"
     },
     {
       "name": "ping",
-      "url": "https://cdn.discordapp.com/emojis/1265284736935395338.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265284736935395338.webp"
     },
     {
       "name": "ques",
-      "url": "https://cdn.discordapp.com/emojis/1265291363100921896.gif"
+      "url": "https://cdn.discordapp.com/emojis/1265291363100921896.webp"
     },
     {
       "name": "across",
-      "url": "https://cdn.discordapp.com/emojis/1291704841516879905.gif"
+      "url": "https://cdn.discordapp.com/emojis/1291704841516879905.webp"
     },
     {
       "name": "tick",
-      "url": "https://cdn.discordapp.com/emojis/1291704886085423104.gif"
+      "url": "https://cdn.discordapp.com/emojis/1291704886085423104.webp"
     },
     {
       "name": "BotLoading",
-      "url": "https://cdn.discordapp.com/emojis/1291706124810194954.gif"
+      "url": "https://cdn.discordapp.com/emojis/1291706124810194954.webp"
     },
     {
       "name": "Warning",
-      "url": "https://cdn.discordapp.com/emojis/1291714941681930325.gif"
+      "url": "https://cdn.discordapp.com/emojis/1291714941681930325.webp"
     },
     {
       "name": "staffs",
-      "url": "https://cdn.discordapp.com/emojis/1292502165163606127.png"
+      "url": "https://cdn.discordapp.com/emojis/1292502165163606127.webp"
     },
     {
       "name": "family",
-      "url": "https://cdn.discordapp.com/emojis/1292502215453442240.png"
+      "url": "https://cdn.discordapp.com/emojis/1292502215453442240.webp"
     },
     {
       "name": "emoji",
-      "url": "https://cdn.discordapp.com/emojis/1296407814645747745.png"
+      "url": "https://cdn.discordapp.com/emojis/1296407814645747745.webp"
     }
   ],
   "stickers": [
@@ -784,5 +895,5 @@
       "url": "https://cdn.discordapp.com/stickers/1244862387228512366.png"
     }
   ],
-  "timestamp": "2024-11-11T09:32:14.336Z"
+  "timestamp": "2024-11-11T09:48:21.490Z"
 }
